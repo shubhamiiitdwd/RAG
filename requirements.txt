@@ -14,3 +14,4 @@ streamlit
 tabulate 
 python-dotenv 
 pandas
+serpapi
